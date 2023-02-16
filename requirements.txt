@@ -1,2 +1,3 @@
 numpy>=1.14.5
 pandas>=1.3.5
+xlwing>=0.29.1
